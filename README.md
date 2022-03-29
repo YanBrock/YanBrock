@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YanBrock
-- My portfolio progects:
+- My portfolio:
 - Todo List: https://github.com/YanBrock/todo_app-portfolio
 - Recipe App: https://github.com/YanBrock/recipe_app-portfolio
 - Hotels List: https://github.com/YanBrock/hotels_list-portfolio
