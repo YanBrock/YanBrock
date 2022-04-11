@@ -6,6 +6,7 @@
 - Todo List: https://github.com/YanBrock/todo_app-portfolio
 - Trainees manager: https://github.com/YanBrock/trainees_manager-portfolio
 - Tag editor: https://github.com/YanBrock/XBSoftware
+- CV: https://github.com/YanBrock/basics/tree/main/cv_datamola
 
 <!---
 YanBrock/YanBrock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
