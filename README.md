@@ -1,4 +1,4 @@
-List of training projects:
+Portfolio:
 - Hotels List: https://github.com/YanBrock/hotels_list-portfolio
 - Shopping cart: https://github.com/YanBrock/shopping_cart-portfolio
 - Recipe App: https://github.com/YanBrock/recipe_app-portfolio
