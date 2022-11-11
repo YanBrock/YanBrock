@@ -1,4 +1,5 @@
-- My work's list -
+My work's list
+
 Landings (gh-pages):
 https://yanbrock.github.io/ghp-cv_datamola/index
 https://yanbrock.github.io/ghp-australian_investors/index
