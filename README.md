@@ -1,11 +1,11 @@
 My work's list
 
 Landings (gh-pages):
-https://yanbrock.github.io/ghp-cv_datamola/index
-https://yanbrock.github.io/ghp-australian_investors/index
+- https://yanbrock.github.io/ghp-cv_datamola/index
+- https://yanbrock.github.io/ghp-australian_investors/index
 
 JavaScript projects (gh-pages):
-Tag editor: https://yanbrock.github.io/XBSoftware/index
+- Tag editor: https://yanbrock.github.io/XBSoftware/index
 
 React projects:
 - Hotels List: https://github.com/YanBrock/hotels_list-portfolio
